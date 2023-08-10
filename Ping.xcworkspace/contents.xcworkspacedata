@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MacBundle/MacBundle.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftPing/SwiftPing.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PingDemo/PingDemo.xcodeproj">
+   </FileRef>
+</Workspace>
